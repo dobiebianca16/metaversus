@@ -1,8 +1,9 @@
 {
-  "homepage": "http://dobiebianca16.github.io/metaversus",
+  "homepage": "https://dobiebianca16.github.io/metaversus/",
   "name": "metaverse13",
   "version": "0.1.0",
   "private": true,
+  "export": "next export",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
